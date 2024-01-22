@@ -39,5 +39,5 @@ This is a console-based Tic-Tac-Toe game implemented in C++. Enjoy playing this 
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/maverik99/tic-tac-toe.git
+https://github.com/maverik99/XO-game.git
 
